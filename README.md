@@ -1,16 +1,13 @@
-### Hi there 👋
+![gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) ✌️ **Hello coders!!** ✌️
+#### I´m Daniel, a web developer from Spain 
+I try to improve and learn new things every day, but always enjoying my profession.
 
-<!--
-**TheBress/TheBress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Flyncer](https://app.flyncer.com/) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TheBress)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBress)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBress&show_icons=true)  
+
