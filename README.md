@@ -1,6 +1,4 @@
-<div align="center">
-<img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' alt='github' width="100%" >
-</div>
+<img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' alt='github' heigth="100%" >
 <h1>✌️ Hello coders!! ✌️</h1>
 <p>I´m Daniel, a web developer from Spain. <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' alt='github' width="5%" ></p> 
 I try to improve and learn new things every day, but always enjoying my profession.
