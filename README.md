@@ -1,5 +1,5 @@
 <img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' alt='github' width="100%">
-<br>
+<br/>
  ✌️ **Hello coders!!** ✌️
 #### I´m Daniel, a web developer from Spain 
 I try to improve and learn new things every day, but always enjoying my profession.
