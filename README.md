@@ -32,7 +32,7 @@ I try to improve and learn new things every day, but always enjoying my professi
 
 <h1>My stats 📈</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBress&show_icons=true&theme=aura&border_radius=30)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBress&show_icons=true&theme=aura&border_radius=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBress&show_icons=true&theme=aura&border_radius=30&layout=compact&langs_count=6) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBress&show_icons=true&theme=aura&border_radius=30)  
 
