@@ -6,7 +6,7 @@ I try to improve and learn new things every day, but always enjoying my professi
 - 🔭 I’m currently working on [Flyncer](https://app.flyncer.com/) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TheBress)  
+<h1>My skills 🚀</h1> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBress)](https://github.com/anuraghazra/github-readme-stats)
 
