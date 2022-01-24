@@ -8,7 +8,7 @@ I try to improve and learn new things every day, but always enjoying my professi
 
 <h1>My stats 📈</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBress)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBress&show_icons=true&theme=aura&border_radius=30)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBress&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBress&show_icons=true&theme=aura&border_radius=30)  
 
