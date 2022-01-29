@@ -1,7 +1,7 @@
 <img src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif' alt='github' width="100%" >
 <h1>✌️ Hello coders!! ✌️</h1>
 <p>I´m Daniel, a web developer from Spain. <img src='https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif' alt='github' width="3%" ></p>
-I try to improve and learn new things every day, but always enjoying my profession. Actually working at <a href="https://app.flyncer.com/">Flyncer</a>
+I try to improve and learn new things every day, but always enjoying my profession. I currently work at <a href="https://app.flyncer.com/">Flyncer</a>
 
 
 <h1>My skills 🚀</h1> 
