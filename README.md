@@ -1,8 +1,6 @@
-<h1>✌️ Hello coders!! ✌️</h1>
-<img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' alt='github' width="100%" >
-<p>I´m Daniel, a web developer from Madrid. <img src='https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif' alt='github' width="3%" ></p>
-I try to improve and learn new things every day, but always enjoying my profession.
-<p>My Linkedin: https://www.linkedin.com/in/daniel-hern%C3%A1ndez-6754681b0/ </p>
+<h1 align="center">✌️ Hello coders!! ✌️</h1>
+<h2 align="center">I´m Daniel Hernández, a web developer from Madrid.</h2>
+<h3>You can connect me on Linkedin: <br/> <a href="https://www.linkedin.com/in/daniel-hern%C3%A1ndez-6754681b0/"> <br/> <img margin="10" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"><img/></a></h3>
 
 
 
